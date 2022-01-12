@@ -1,0 +1,13 @@
+ GPU isn't used 
+mini_batch = 1, batch = 24, time_steps = 1, train = 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 196 K-images (3 Kilo-batches_64) 
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/home/jabulani/Final_Project/data/images/input/sneaker_132032976_357.jpg: Predicted in 9133.712000 milli-seconds.
+sneaker: 86%	(left_x:  134   top_y:  267   width:  474   height:  357)
+Enter Image Path: 
